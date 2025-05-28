@@ -17,8 +17,8 @@
 </p>
 
 ## About translation
-- It's the best app, so I Japanese translated it for me and my friends.
-- There are intentionally some parts that are not in Japanese.
+- It's the best app, so I coded it for me and my friends.
+- There are intentionally some parts that are not in Indian.
 - The license has been modified from the one originally created by vfsfitvnm. Please use it under the GPL-3.0 license.
 
 ## Features
@@ -41,7 +41,7 @@
 - ...
 
 ## Installation
-- Currently, the Japanese version is distributed only on GitHub. In the case of IzzyOnDroid and F-Droid, it will redirect to the original link by vfsfitvnm.
+- Currently, the Indian version is distributed only on GitHub. In the case of IzzyOnDroid and F-Droid, it will redirect to the original link by vfsfitvnm.
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
